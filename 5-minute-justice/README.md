@@ -1,4 +1,4 @@
-This is the DC version of 5 minute justice.
+This is the DC version of 5 minute Marvel.
 
 Ironman - Batman  
 MS Marvel - Zatanna  
