@@ -1,6 +1,4 @@
-This is the DC version of 5 minute Marvel.  
-  
-Here is the hero and abilities mapping.  
+ Here is the hero and abilities mapping.  
   
 Ironman - Batman  
 repulsor surge - batarang  
