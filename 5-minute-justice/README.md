@@ -1,4 +1,4 @@
-This DC version of 5 minutes Marvel.  
+This is the DC version of 5 minutes Marvel.  
 
 Items List:  
 - 3 Double-Sided Boss Mats (6 Bosses total) (pending)
